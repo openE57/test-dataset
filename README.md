@@ -1,2 +1,5 @@
 # test-dataset
-A dataset for testing openE57. They are all available through libE57.org
+
+A collection of example files for testing openE57. 
+
+Many of them are available through libE57.org at https://sourceforge.net/projects/e57-3d-imgfmt/files/E57Example-data/
